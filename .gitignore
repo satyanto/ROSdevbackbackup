@@ -1,0 +1,21 @@
+
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+
+# ...even if they are in subdirectories:
+!*/
+
+# If the files tracked are in subdirectories
+!*/a/b/file.txt
+
+# FirstNode
+!*src/FirstNode/*
+!*src/FirstNode/src/*
+
+
+
+
+
