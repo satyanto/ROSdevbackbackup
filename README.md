@@ -13,3 +13,6 @@ Running catkin_make with a valid node folder inside /src will create a node fold
 These compiled files will NOT be tracked, only the main files and catkin files under the /src workspace.
 
 Remember that all of the compilation will depend on the CMakeLists.txt file inside the node folder, and executables and the target link libraries must be defined inside the CMakeLists.txt file.
+
+## Franka_ROS Development
+Controller development is done under /src/franka_ros/hafidh_control
